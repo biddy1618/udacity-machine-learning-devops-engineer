@@ -1,4 +1,3 @@
-# library doc string
 '''
 Module for finding customer who are likely to churn.
 

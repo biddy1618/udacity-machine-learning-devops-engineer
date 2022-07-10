@@ -1,3 +1,9 @@
+'''
+Module for storing constants.
+
+Author: Dauren Baitursyn
+Date: 09.07.22
+'''
 import os
 
 # file paths
