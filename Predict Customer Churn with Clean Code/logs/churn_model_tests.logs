@@ -1,0 +1,104 @@
+root - INFO - SUCCESS - reading CSV file at path - "/home/workspace/data/bank_data.csv".
+root - INFO - SUCCESS: Testing import_data.
+root - INFO - SUCCESS - reading CSV file at path - "/home/workspace/data/bank_data.csv".
+root - INFO - SUCCESS - saved categorical variables plot at - "/home/workspace/images/eda/categorical_variables_plot.png".
+root - INFO - SUCCESS - saved quantitative variables plot at path - "/home/workspace/images/eda/quantitative_variables_plot.png".
+root - INFO - SUCCESS - saved KDE plot for total transactions at path - "/home/workspace/images/eda/total_transactions_plot.png".
+root - INFO - SUCCESS - saved correlation map at path - "/home/workspace/images/eda/correlation_map.png".
+root - INFO - SUCCESS - reading CSV file at path - "/home/workspace/data/bank_data.csv".
+root - INFO - SUCCESS - finished encoding categorical variables by mean target variables.
+root - INFO - SUCCESS - reading CSV file at path - "/home/workspace/data/bank_data.csv".
+root - INFO - SUCCESS - finished encoding categorical variables by mean target variables.
+root - INFO - SUCCESS - successfully transformed and train-test splitted the data.
+root - INFO - SUCCESS - reading CSV file at path - "/home/workspace/data/bank_data.csv".
+root - INFO - SUCCESS - finished encoding categorical variables by mean target variables.
+root - INFO - SUCCESS - successfully transformed and train-test splitted the data.
+root - INFO - SUCCESS - saved random forest classifier report at path - "/home/workspace/images/results/random_forest_scores.png".
+root - INFO - SUCCESS - saved logistic regression classifier report at path - "/home/workspace/images/results/logistic_regression_scores.png".
+root - INFO - SUCCESS - saved feature importance report at path - "/home/workspace/images/results/feature_importance_rfc.png".
+root - INFO - SUCCESS - saved feature importance report at path - "/home/workspace/images/results/feature_importance_lrc.png".
+root - INFO - SUCCESS - saved models in folder - /home/workspace/models/
+root - INFO - SUCCESS - reading CSV file at path - "/home/workspace/data/bank_data.csv".
+root - INFO - SUCCESS - saved categorical variables plot at - "/home/workspace/images/eda/categorical_variables_plot.png".
+root - INFO - SUCCESS - saved quantitative variables plot at path - "/home/workspace/images/eda/quantitative_variables_plot.png".
+root - INFO - SUCCESS - saved KDE plot for total transactions at path - "/home/workspace/images/eda/total_transactions_plot.png".
+root - INFO - SUCCESS - saved correlation map at path - "/home/workspace/images/eda/correlation_map.png".
+root - INFO - SUCCESS - finished encoding categorical variables by mean target variables.
+root - INFO - SUCCESS - successfully transformed and train-test splitted the data.
+root - INFO - SUCCESS - saved random forest classifier report at path - "/home/workspace/images/results/random_forest_scores.png".
+root - INFO - SUCCESS - saved logistic regression classifier report at path - "/home/workspace/images/results/logistic_regression_scores.png".
+root - INFO - SUCCESS - saved feature importance report at path - "/home/workspace/images/results/feature_importance_rfc.png".
+root - INFO - SUCCESS - saved feature importance report at path - "/home/workspace/images/results/feature_importance_lrc.png".
+root - INFO - SUCCESS - saved models in folder - /home/workspace/models/
+root - INFO - SUCCESS - reading CSV file at path - "/home/workspace/data/bank_data.csv".
+root - INFO - SUCCESS: Testing import_data.
+root - INFO - SUCCESS - reading CSV file at path - "/home/workspace/data/bank_data.csv".
+root - INFO - SUCCESS - saved categorical variables plot at - "/home/workspace/images/eda/categorical_variables_plot.png".
+root - INFO - SUCCESS - saved quantitative variables plot at path - "/home/workspace/images/eda/quantitative_variables_plot.png".
+root - INFO - SUCCESS - saved KDE plot for total transactions at path - "/home/workspace/images/eda/total_transactions_plot.png".
+root - INFO - SUCCESS - saved correlation map at path - "/home/workspace/images/eda/correlation_map.png".
+root - INFO - SUCCESS - reading CSV file at path - "/home/workspace/data/bank_data.csv".
+root - INFO - SUCCESS - finished encoding categorical variables by mean target variables.
+root - INFO - SUCCESS - reading CSV file at path - "/home/workspace/data/bank_data.csv".
+root - INFO - SUCCESS - finished encoding categorical variables by mean target variables.
+root - INFO - SUCCESS - successfully transformed and train-test splitted the data.
+root - INFO - SUCCESS - reading CSV file at path - "/home/workspace/data/bank_data.csv".
+root - INFO - SUCCESS - finished encoding categorical variables by mean target variables.
+root - INFO - SUCCESS - successfully transformed and train-test splitted the data.
+root - INFO - SUCCESS - saved random forest classifier report at path - "/home/workspace/images/results/random_forest_scores.png".
+root - INFO - SUCCESS - saved logistic regression classifier report at path - "/home/workspace/images/results/logistic_regression_scores.png".
+root - INFO - SUCCESS - saved feature importance report at path - "/home/workspace/images/results/feature_importance_rfc.png".
+root - INFO - SUCCESS - saved feature importance report at path - "/home/workspace/images/results/feature_importance_lrc.png".
+root - INFO - SUCCESS - saved models in folder - /home/workspace/models/
+root - INFO - SUCCESS - reading CSV file at path - "/home/workspace/data/bank_data.csv".
+root - INFO - SUCCESS: Testing import_data.
+root - INFO - SUCCESS - reading CSV file at path - "/home/workspace/data/bank_data.csv".
+root - INFO - SUCCESS - saved categorical variables plot at - "/home/workspace/images/eda/categorical_variables_plot.png".
+root - INFO - SUCCESS - saved quantitative variables plot at path - "/home/workspace/images/eda/quantitative_variables_plot.png".
+root - INFO - SUCCESS - saved KDE plot for total transactions at path - "/home/workspace/images/eda/total_transactions_plot.png".
+root - INFO - SUCCESS - saved correlation map at path - "/home/workspace/images/eda/correlation_map.png".
+root - INFO - SUCCESS - reading CSV file at path - "/home/workspace/data/bank_data.csv".
+root - INFO - SUCCESS - finished encoding categorical variables by mean target variables.
+root - INFO - SUCCESS - reading CSV file at path - "/home/workspace/data/bank_data.csv".
+root - INFO - SUCCESS - finished encoding categorical variables by mean target variables.
+root - INFO - SUCCESS - successfully transformed and train-test splitted the data.
+root - INFO - SUCCESS - reading CSV file at path - "/home/workspace/data/bank_data.csv".
+root - INFO - SUCCESS - finished encoding categorical variables by mean target variables.
+root - INFO - SUCCESS - successfully transformed and train-test splitted the data.
+root - INFO - SUCCESS - saved random forest classifier report at path - "/home/workspace/images/results/random_forest_scores.png".
+root - INFO - SUCCESS - saved logistic regression classifier report at path - "/home/workspace/images/results/logistic_regression_scores.png".
+root - INFO - SUCCESS - saved feature importance report at path - "/home/workspace/images/results/feature_importance_rfc.png".
+root - INFO - SUCCESS - saved feature importance report at path - "/home/workspace/images/results/feature_importance_lrc.png".
+root - INFO - SUCCESS - saved models in folder - /home/workspace/models/
+root - INFO - SUCCESS - reading CSV file at path - "/home/workspace/data/bank_data.csv".
+root - INFO - SUCCESS - saved categorical variables plot at - "/home/workspace/images/eda/categorical_variables_plot.png".
+root - INFO - SUCCESS - saved quantitative variables plot at path - "/home/workspace/images/eda/quantitative_variables_plot.png".
+root - INFO - SUCCESS - saved KDE plot for total transactions at path - "/home/workspace/images/eda/total_transactions_plot.png".
+root - INFO - SUCCESS - saved correlation map at path - "/home/workspace/images/eda/correlation_map.png".
+root - INFO - SUCCESS - finished encoding categorical variables by mean target variables.
+root - INFO - SUCCESS - successfully transformed and train-test splitted the data.
+root - INFO - SUCCESS - saved random forest classifier report at path - "/home/workspace/images/results/random_forest_scores.png".
+root - INFO - SUCCESS - saved logistic regression classifier report at path - "/home/workspace/images/results/logistic_regression_scores.png".
+root - INFO - SUCCESS - saved feature importance report at path - "/home/workspace/images/results/feature_importance_rfc.png".
+root - INFO - SUCCESS - saved feature importance report at path - "/home/workspace/images/results/feature_importance_lrc.png".
+root - INFO - SUCCESS - saved models in folder - /home/workspace/models/
+root - INFO - SUCCESS - reading CSV file at path - "/home/workspace/data/bank_data.csv".
+root - INFO - SUCCESS: Testing import_data.
+root - INFO - SUCCESS - reading CSV file at path - "/home/workspace/data/bank_data.csv".
+root - INFO - SUCCESS - saved categorical variables plot at - "/home/workspace/images/eda/categorical_variables_plot.png".
+root - INFO - SUCCESS - saved quantitative variables plot at path - "/home/workspace/images/eda/quantitative_variables_plot.png".
+root - INFO - SUCCESS - saved KDE plot for total transactions at path - "/home/workspace/images/eda/total_transactions_plot.png".
+root - INFO - SUCCESS - saved correlation map at path - "/home/workspace/images/eda/correlation_map.png".
+root - INFO - SUCCESS - reading CSV file at path - "/home/workspace/data/bank_data.csv".
+root - INFO - SUCCESS - finished encoding categorical variables by mean target variables.
+root - INFO - SUCCESS - reading CSV file at path - "/home/workspace/data/bank_data.csv".
+root - INFO - SUCCESS - finished encoding categorical variables by mean target variables.
+root - INFO - SUCCESS - successfully transformed and train-test splitted the data.
+root - INFO - SUCCESS - reading CSV file at path - "/home/workspace/data/bank_data.csv".
+root - INFO - SUCCESS - finished encoding categorical variables by mean target variables.
+root - INFO - SUCCESS - successfully transformed and train-test splitted the data.
+root - INFO - SUCCESS - saved random forest classifier report at path - "/home/workspace/images/results/random_forest_scores.png".
+root - INFO - SUCCESS - saved logistic regression classifier report at path - "/home/workspace/images/results/logistic_regression_scores.png".
+root - INFO - SUCCESS - saved feature importance report at path - "/home/workspace/images/results/feature_importance_rfc.png".
+root - INFO - SUCCESS - saved feature importance report at path - "/home/workspace/images/results/feature_importance_lrc.png".
+root - INFO - SUCCESS - saved models in folder - /home/workspace/models/
