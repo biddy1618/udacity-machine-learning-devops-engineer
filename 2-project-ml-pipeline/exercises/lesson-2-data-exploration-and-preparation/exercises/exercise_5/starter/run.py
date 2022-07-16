@@ -14,7 +14,26 @@ def go(args):
     run = wandb.init(project="exercise_5", job_type="process_data")
 
     ## YOUR CODE HERE
-    pass
+    artifact = run.use_artifact(args.input_artifact)
+
+    df = pd.read_parquet(artifact.file())
+
+    df = df.drop_duplicates().reset_index(drop=True)
+    df['title'].fillna(value='', inplace=True)
+    df['song_name'].fillna(value='', inplace=True)
+    df['text_feature'] = df['title'] + ' ' + df['song_name']
+
+    df.to_csv(args.artifact_name)
+    
+    artifact_preprocessed = wandb.Artifact(
+        name=args.artifact_name,
+        type=args.artifact_type,
+        description=args.artifact_description
+    )
+    artifact_preprocessed.add_file(args.artifact_name)
+
+    run.log_artifact(artifact_preprocessed)
+
 
 
 if __name__ == "__main__":

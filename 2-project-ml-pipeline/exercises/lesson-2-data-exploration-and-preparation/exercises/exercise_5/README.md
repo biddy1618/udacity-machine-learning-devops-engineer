@@ -7,9 +7,9 @@ It implements in a reusable way the steps we implemented in the EDA notebook in 
 Write the ``conda.yml`` file, the ``MLproject`` file and fill in the ``run.py`` script.
 
 Remember, your script must execute the following operations:
-1. Download the input artifact (use ``exercise_4/genres_mod.parquet:latest``) from W&B
-2. Open it with pandas (using ``pd.read_parquet``)
-3. Drop duplicates (``df.drop_duplicates().reset_index(drop=True)`)
+1. Download the input artifact (use `exercise_4/genres_mod.parquet:latest`) from W&B
+2. Open it with pandas (using `pd.read_parquet`)
+3. Drop duplicates (`df.drop_duplicates().reset_index(drop=True)`)
 4. Add a new feature:
    ```python
    df['title'].fillna(value='', inplace=True)
