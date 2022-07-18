@@ -7,4 +7,4 @@ dependencies:
   - pip=20.3.3
   - pytest=6.2.2
   - pip:
-      - wandb==0.10.21
+    - wandb==0.12.17
