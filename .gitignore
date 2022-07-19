@@ -165,3 +165,7 @@ artifacts/
 
 # MLFlow files and folders
 mlruns/
+
+# MLFlow Hydra files and folders
+multirun/
+outputs/
