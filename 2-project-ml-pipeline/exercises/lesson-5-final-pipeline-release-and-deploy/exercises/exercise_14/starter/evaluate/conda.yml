@@ -11,4 +11,4 @@ dependencies:
   - pillow=8.1.2
   - mlflow=1.14.1
   - pip:
-      - wandb==0.10.21
+    - wandb==0.12.17

@@ -4,6 +4,7 @@ produces a trained Random Forest model.
 
 # Preliminary step: create a repository and commit and push the starter kit
 1. Create a new GitHub repository called ``genre_classification`` in your GitHub account:
+
    ![screenshot](create_github_repo_opt.gif "screenshot")
 2. Clone the repository locally:
    ```bash
