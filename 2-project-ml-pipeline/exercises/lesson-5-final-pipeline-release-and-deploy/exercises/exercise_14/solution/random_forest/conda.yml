@@ -9,7 +9,7 @@ dependencies:
   - matplotlib=3.2.2
   - plotly=4.4.1
   - pillow=8.1.2
-  - mlflow=1.14.1
+  - mlflow=1.19.0
   - pip:
       - wandb==0.10.21
       - omegaconf==2.0.6

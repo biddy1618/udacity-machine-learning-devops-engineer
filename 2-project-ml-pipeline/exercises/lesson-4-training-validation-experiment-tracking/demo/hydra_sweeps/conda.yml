@@ -4,7 +4,7 @@ channels:
   - defaults
 dependencies:
   - pip=20.3.3
-  - mlflow=1.14.1
+  - mlflow=1.19.0
   - hydra-core=1.0.6
   - pip:
     - wandb==0.10.21

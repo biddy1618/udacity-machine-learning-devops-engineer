@@ -15,7 +15,7 @@ Your task is to stitch these two components together in a pipeline.
 1. Complete the ``conda.yml`` file. The pipeline main script needs the conda packages:
      * requests=2.24.0
      * pip=20.3.3
-     * mlflow=1.14.1
+     * mlflow=1.19.0
      * hydra-core=1.0.6
      * pip=20.3.3
    
