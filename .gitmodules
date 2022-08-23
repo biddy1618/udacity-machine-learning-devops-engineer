@@ -4,3 +4,18 @@
 [submodule "2-module-ml-pipeline/full-pipeline"]
 	path = 2-module-ml-pipeline/full-pipeline
 	url = https://github.com/biddy1618/udacity-mldevops-2-module-full-pipeline
+[submodule "3-module-exercises/github-actions"]
+	path = 3-module-exercises/github-actions
+	url = https://github.com/biddy1618/udacity-mldevops-3-module-github-actions
+[submodule "3-module-exercises/heroku-demo"]
+	path = 3-module-exercises/heroku-demo
+	url = https://github.com/biddy1618/udacity-mldevops-3-module-heroku
+[submodule "3-module-exercises/dvc-1"]
+	path = 3-module-exercises/dvc-1
+	url = https://github.com/biddy1618/udacity-mldevops-3-module-dvc-1
+[submodule "3-module-exercises/dvc-2"]
+	path = 3-module-exercises/dvc-2
+	url = https://github.com/biddy1618/udacity-mldevops-3-module-dvc-2
+[submodule "3-module-exercises/dvc-3"]
+	path = 3-module-exercises/dvc-3
+	url = https://github.com/biddy1618/udacity-mldevops-3-module-dvc-3
