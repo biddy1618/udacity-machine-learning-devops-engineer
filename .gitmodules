@@ -19,3 +19,6 @@
 [submodule "3-module-exercises/dvc-3"]
 	path = 3-module-exercises/dvc-3
 	url = https://github.com/biddy1618/udacity-mldevops-3-module-dvc-3
+[submodule "3-project-fastapi-heroku"]
+	path = 3-project-fastapi-heroku
+	url = https://github.com/biddy1618/udacity-mldevops-3-project-mlmodel-fastapi-heroku
