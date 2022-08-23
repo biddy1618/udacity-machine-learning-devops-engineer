@@ -1,3 +1,6 @@
 [submodule "2-project-ml-pipeline"]
 	path = 2-project-ml-pipeline
 	url = https://github.com/biddy1618/udacity-mldevops-2-project-ml-pipeline-for-short-term-rental-prices
+[submodule "2-module-ml-pipeline/full-pipeline"]
+	path = 2-module-ml-pipeline/full-pipeline
+	url = https://github.com/biddy1618/udacity-mldevops-2-module-full-pipeline
