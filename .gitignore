@@ -169,3 +169,6 @@ mlruns/
 # MLFlow Hydra files and folders
 multirun/
 outputs/
+
+# VScode
+.vscode/
