@@ -25,3 +25,6 @@
 [submodule "4-project-risk-assessment"]
 	path = 4-project-risk-assessment
 	url = https://github.com/biddy1618/udacity-mldevops-4-project-risk-assessment.git
+[submodule "1-project-customer-churn"]
+	path = 1-project-customer-churn
+	url = git@github.com:biddy1618/udacity-mldevops-1-customer-churn.git
